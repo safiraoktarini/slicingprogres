@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portal Ekonomi</title>
+    <link rel="stylesheet" href="asik.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Manrope:wght@200;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/fontawesome.min.css">
+</head>
+<body>
+    <section class="header">
+        <nav>
+            <img src="aset/logo.svg" id="logo">
+            <h1>PORTAL | EKONOMI</h1>
+            <div class="nav-links" id="navLinks">
+                <i class="fa fa-times" onclick="hideMenu()"></i>
+                <ul>
+                    <li><a href="#">Galeri</a></li>
+                    <li><a href="#">Tentang</a></li>
+                </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showMenu()"></i>
+        </nav>
+
+        <div class="text">
+            <h2>BAGIAN PEREKONOMIAN KOTA BANDUNG</h2>
+            <h1>Recover together, Recover stronger</h1>
+            <a href="login.html" class="hero-btn">LOGIN</a>
+        </div>
+
+    </section>
+
+    <section class="sampul">
+        <img src="aset/sampull.jpg">
+    </section>
+
+    <!------Struktur Organisasi----->
+    <section class="struktur">
+        <div class="tentang">
+            <h1>Tentang Bagian Perekonomian Kota Bandung</h1>
+        </div>
+        <div class="struktur-organisasi">
+            <h4>Struktur Organisasi</h4>
+        </div>
+    </section>
+
+    <section class="alur-ekonomi">
+        <div class="walkot">
+            <h4>Wali Kota dan Wakil Wali Kota</h4>
+            <h5>Yana Mulyana</h5>
+        </div>
+
+        <div class="sekda">
+            <h4>Sekretariat Daerah</h4>
+            <h5>Ema Sumarna</h5>
+        </div>
+
+        <div class="as-sekda">
+            <h4>Asisten Perekonomian dan Pembangunan Sekretariat Daerah</h4>
+            <h5>Eric Mohamad Attahauriq</h5>
+        </div>
+
+        <div class="kabag">
+            <h4>Kepala Bagian Ekonomi Sekretariat Daerah</h4>
+            <h5>TB. Agus Mulyadi</h5>
+        </div>
+
+        <div class="sekor1">
+            <h4>Kepala Sub Kordinasi Perencanaan dan Pengawasan Ekonomi Mikro Kecil</h4>
+            <h5>R. Muhammad Taufik Hidayat</h5>
+        </div>
+
+        <div class="sekor2">
+            <h4>Kepala Sub Koordinasi Pengendalian dan Distribusi Perekonomian Makro</h4>
+            <h5>Yoni Pritrama Kurniawan Suhud</h5>
+        </div>
+
+        <div class="sekor3">
+            <h4>Kepala Sub Koordinasi Pembinaan Badan Usaha Milik Daerah dan Badan Layanan Umum Daerah</h4>
+            <h5>Aris Arifin</h5>
+        </div>
+
+        <h5>Staff</h5>
+        <h5>Staff</h5>
+        <h5>Staff</h5>
+    </section>
+
+    <!------Visi&Misi---->
+    <section class="VisiMisi">
+        <h4>Visi & Misi</h4>
+        <div class="Visi">
+            <h4>Visi</h4>
+            <h5>Mewujudkan Birokrasi Pemerintah Daerah yang Profesional, Responsif dan Berorientasi Pelayanan Publik dalam Rangka Mendukung Perwujudan Kota Bandung yang Unggul,<br> Nyaman dan Sejahtera</h5>
+        </div>
+
+        <div class="Misi">
+            <h4>Misi</h4>
+            <h5>1.	 Mewujudkan (Keunggulan) tata kelola Pemerintahan Daerah yang baik;<br>
+                2.	Mewujudkan kesejahteraan masyarakat melalui pengembangan manusia yang berdaya saing, perekonomian yang kokoh, infrastruktur berkelanjutan, serta kokohnya interaksi sosial, budaya dan kemasyarakatan;<br>
+                3.	Mewujudkan efektivitas penyelenggaraan administrasi pemerintahan dalam memberikan pelayanan yang baik pada perangkat daerah.<br>
+                </h5>
+        </div>
+    </section>
+
+
+    <!------JavaScript for Toggle Menu--->
+
+    <script>
+
+        var navLinks = document.getElementById("navLinks")
+        function showMenu(){
+            navLinks.style.right = "0";
+        }
+
+        function hideMenu(){
+            navLinks.style.right = "-200px";
+        }
+
+    </script>
+
+</body>
+</html>

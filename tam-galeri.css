@@ -1,0 +1,490 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Manrope', sans-serif;
+  }
+  body {
+    font-size: 14px;
+  }
+  .tamgaleri-page {
+    width: 100%;
+    height: auto;
+    background: rgba(238,238,238,1);
+    opacity: 1;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .footer {
+    width: 100%;
+    height: 182px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 656px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v28_1302 {
+    width: 230px;
+    height: 23px;
+    background: url("../images/v28_1302.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    top: 123px;
+    left: 1146px;
+    overflow: hidden;
+  }
+  .credit {
+    width: 209px;
+    color: rgba(41,41,41,1);
+    top: 1px;
+    left: 21px;
+    font-family: Manrope;
+    font-weight: SemiBold;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+  }
+  .textfooter {
+    width: 359px;
+    height: 84px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    top: 30px;
+    left: 210px;
+    overflow: hidden;
+  }
+  .v28_1308 {
+    width: 342px;
+    color: rgba(41,41,41,1);
+    top: 21px;
+    left: 0px;
+    font-family: Manrope;
+    font-weight: SemiBold;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v28_1309 {
+    width: 219px;
+    color: rgba(41,41,41,1);
+    top: 42px;
+    left: 0px;
+    font-family: Manrope;
+    font-weight: SemiBold;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v28_1310 {
+    width: 219px;
+    color: rgba(41,41,41,1);
+    top: 63px;
+    left: 0px;
+    font-family: Manrope;
+    font-weight: SemiBold;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v28_1311 {
+    width: 359px;
+    color: rgba(41,41,41,1);
+    top: 0px;
+    left: 0px;
+    font-family: Manrope;
+    font-weight: ExtraBold;
+    font-size: 18px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v28_1358 {
+    width: 664px;
+    color: rgba(41,41,41,1);
+    position: absolute;
+    top: 99px;
+    left: 388px;
+    font-family: Manrope;
+    font-weight: ExtraBold;
+    font-size: 30px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v31_1855 {
+    width: 840px;
+    height: 482px;
+    background: url("../images/v31_1855.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 147px;
+    left: 300px;
+    overflow: hidden;
+  }
+  .v28_1313 {
+    width: 840px;
+    height: 482px;
+    background: url("../images/v28_1313.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v28_1314 {
+    width: 840px;
+    height: 482px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .name {
+    color: #fff;
+  }
+  .v28_1339 {
+    width: 809px;
+    color: rgba(41,41,41,1);
+    position: absolute;
+    top: 223px;
+    left: 31px;
+    font-family: Manrope;
+    font-weight: Bold;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v28_1340 {
+    width: 779px;
+    height: 30px;
+    background: rgba(217,217,217,1);
+    opacity: 1;
+    position: absolute;
+    top: 256px;
+    left: 31px;
+    border: 1px solid rgba(0,0,0,1);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    overflow: hidden;
+  }
+  .v28_1341 {
+    width: 809px;
+    color: rgba(41,41,41,1);
+    position: absolute;
+    top: 313px;
+    left: 31px;
+    font-family: Manrope;
+    font-weight: Bold;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v28_1342 {
+    width: 128px;
+    height: 30px;
+    background: rgba(217,217,217,1);
+    opacity: 1;
+    position: absolute;
+    top: 346px;
+    left: 31px;
+    border: 1px solid rgba(0,0,0,1);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    overflow: hidden;
+  }
+  .v28_1343 {
+    width: 811px;
+    color: rgba(41,41,41,1);
+    position: absolute;
+    top: 43px;
+    left: 29px;
+    font-family: Manrope;
+    font-weight: Bold;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v28_1344 {
+    width: 779px;
+    height: 30px;
+    background: rgba(217,217,217,1);
+    opacity: 1;
+    position: absolute;
+    top: 76px;
+    left: 30px;
+    border: 1px solid rgba(0,0,0,1);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    overflow: hidden;
+  }
+  .v28_1346 {
+    width: 110px;
+    color: rgba(41,41,41,1);
+    position: absolute;
+    top: 351px;
+    left: 40px;
+    font-family: Manrope;
+    font-weight: Bold;
+    font-size: 18px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v28_1347 {
+    width: 810px;
+    color: rgba(41,41,41,1);
+    position: absolute;
+    top: 133px;
+    left: 30px;
+    font-family: Manrope;
+    font-weight: Bold;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v28_1348 {
+    width: 778px;
+    height: 30px;
+    background: rgba(217,217,217,1);
+    opacity: 1;
+    position: absolute;
+    top: 166px;
+    left: 31px;
+    border: 1px solid rgba(0,0,0,1);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    overflow: hidden;
+  }
+  .v28_1355 {
+    width: 150px;
+    height: 60px;
+    background: url("../images/v28_1355.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 392px;
+    left: 346px;
+    overflow: hidden;
+  }
+  .v28_1356 {
+    width: 150px;
+    height: 60px;
+    background: rgba(107,175,146,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    overflow: hidden;
+  }
+button{
+    border: 1px solid #000000;
+    padding: 12px 34px;
+    background: transparent;
+    display: inline-block;
+    text-decoration: none;
+    color: #000000;
+    border-radius: 15px;
+    font-size: 18px;
+    position: relative;
+    cursor: pointer;
+    margin-top: 10px;
+    font-weight: 800;
+}
+button:hover{
+    border: 1px solid #6BAF92;
+    background: #6BAF92;
+    transition: 1s;
+}
+  .v31_2350 {
+    width: 100%;
+    height: 60px;
+    background: url("../images/v31_2350.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v31_2351 {
+    width: 60px;
+    height: 100%;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 60px;
+    left: 0px;
+    transform: rotate(-90deg);
+    overflow: hidden;
+  }
+  .v31_2352 {
+    width: 810px;
+    height: 30px;
+    background: url("../images/v31_2352.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 15px;
+    left: 330px;
+    overflow: hidden;
+  }
+  .v31_2353 {
+    width: 810px;
+    height: 30px;
+    background: rgba(217,217,217,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 45px;
+    border-top-right-radius: 45px;
+    border-bottom-left-radius: 45px;
+    border-bottom-right-radius: 45px;
+    overflow: hidden;
+  }
+  .v31_2354 {
+    width: 72px;
+    color: rgba(128,129,145,1);
+    position: absolute;
+    top: 6px;
+    left: 38px;
+    font-family: Manrope;
+    font-weight: SemiBold;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v31_2355 {
+    width: 22px;
+    height: 23px;
+    background: url("../images/v31_2355.png");
+    opacity: 1;
+    position: absolute;
+    top: 2px;
+    left: 7px;
+    border: 1.1403509378433228px solid rgba(171,171,171,1);
+  }
+  .v31_2356 {
+    width: 106px;
+    height: 30px;
+    background: url("../images/v31_2356.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 16px;
+    left: 1268px;
+    overflow: hidden;
+  }
+  .v31_2357 {
+    width: 80px;
+    color: rgba(41,41,41,1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Manrope;
+    font-weight: SemiBold;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+  }
+  .name {
+    color: #fff;
+  }
+  .v31_2359 {
+    width: 243px;
+    height: 25px;
+    background: url("../images/v31_2359.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 18px;
+    left: 60px;
+    overflow: hidden;
+  }
+  .logo {
+    width: 33px;
+    height: 25px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v31_2361 {
+    width: 11px;
+    height: 25px;
+    background: url("../images/v31_2361.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .name {
+    color: #fff;
+  }
+  .v31_2365 {
+    width: 21px;
+    height: 25px;
+    background: url("../images/v31_2365.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 11px;
+    overflow: hidden;
+  }
+  .portal {
+    width: 186px;
+    color: rgba(107,175,146,1);
+    position: absolute;
+    top: 0px;
+    left: 57px;
+    font-family: Lato;
+    font-weight: ExtraBold;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
